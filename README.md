@@ -2,4 +2,4 @@
 
 Pierre feuille ciseau classique 
 
-Voici le lien: https://github.com/danielGibaru/JanKenPonPFC.git
+Voici le lien: https://jankenponpfc.000webhostapp.com/
