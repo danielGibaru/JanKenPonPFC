@@ -1,0 +1,21 @@
+
+#result{
+    font-family: "Arial Black", Gadget, sans-serif;
+    padding: 25% 45%;
+    font-size: 5em;
+}
+#titre{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 10em;
+    padding: 5%;
+}
+#total{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 1.5em;
+    margin:2% -11% 2% 0; 
+}
+.btn{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 2.5em;
+
+}
